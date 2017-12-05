@@ -85,3 +85,6 @@
     ```
 
     Refer to these [instructions on how to not require sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+    
+## gitignore ##
+[gitignore example wild cards](https://www.atlassian.com/git/tutorials/gitignore)
